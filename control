@@ -1,0 +1,9 @@
+Package: com.xtm3x.pag
+Name: Pag
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Quickly navigate to your copied websites.
+Maintainer: xTheMaster3x
+Author: xTheMaster3x
+Section: Tweaks
